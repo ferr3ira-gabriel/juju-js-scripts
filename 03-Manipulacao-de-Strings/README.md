@@ -22,7 +22,7 @@ Esta pasta contém scripts que demonstram como trabalhar com strings (texto) em 
   - Busca case-insensitive
 - **Exemplo de uso:** `contemPalavra("Eu amo JavaScript", "javascript")` retorna `true`
 
-### 🔤 `tranformarPalavraEmMinuscula.js`
+### 🔤 `transformarPalavraEmMinuscula.js`
 **Função:** Converte uma string para minúsculas
 - **O que faz:** Usa `toLowerCase()` para transformar texto
 - **Conceitos aprendidos:**
@@ -39,7 +39,7 @@ Esta pasta contém scripts que demonstram como trabalhar com strings (texto) em 
   - `join()` para concatenar strings
 - **Exemplo de uso:** `organizarFrase([["mundo", 2], ["Olá ", 1]])` retorna `"Olá mundo"`
 
-### 🔄 `mudarPosiçãoDasPalavras.js`
+### 🔄 `mudarPosicaoDasPalavras.js`
 **Função:** Transpõe uma matriz de caracteres (linhas viram colunas)
 - **O que faz:** Converte uma matriz de linhas em uma matriz de colunas
 - **Conceitos aprendidos:**

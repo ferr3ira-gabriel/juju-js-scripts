@@ -50,12 +50,6 @@ Scripts básicos e utilitários simples para iniciantes.
 4. **Modifique os exemplos** para entender melhor o funcionamento
 5. **Pratique criando suas próprias versões**
 
-### Para Professores
-- Use os scripts como exercícios em sala de aula
-- Cada pasta pode ser uma aula ou módulo
-- A documentação serve como material de apoio
-- Os exemplos são práticos e do mundo real
-
 ## 🚀 Como Executar os Scripts
 
 ### No Navegador
@@ -102,23 +96,6 @@ node calcularIMC.js
 3. **Experimente modificações** - mude valores e veja o que acontece
 4. **Leia o código em voz alta** - ajuda a entender a lógica
 5. **Documente seu aprendizado** - escreva comentários explicando o que você entendeu
-
-## 🤝 Contribuindo
-
-O **juju-js-scripts** é um repositório para aprendizado! Sinta-se à vontade para:
-- Adicionar novos scripts
-- Melhorar a documentação
-- Corrigir erros
-- Sugerir melhorias
-- Compartilhar suas próprias versões dos exercícios
-
-## 📞 Suporte
-
-Se você tem dúvidas sobre algum script ou conceito:
-1. Leia a documentação da pasta correspondente
-2. Teste o script com diferentes valores
-3. Use o console para debug
-4. Consulte a documentação oficial do JavaScript
 
 ---
 

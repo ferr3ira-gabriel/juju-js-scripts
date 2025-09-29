@@ -4,7 +4,7 @@ Esta pasta contém scripts básicos e utilitários simples para iniciantes.
 
 ## 📁 Arquivos Incluídos
 
-### 🔢 `parouimpar.js`
+### 🔢 `parOuImpar.js`
 **Função:** Determina se um número é par ou ímpar
 - **O que faz:** Usa o operador módulo (%) para verificar se o resto da divisão por 2 é zero
 - **Conceitos aprendidos:**
